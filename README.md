@@ -1,4 +1,5 @@
-# 🌀 Pattern Printing Loop
+# 🌀 Pattern Playground
+
 
 Welcome to **Pattern Printing Loop**, a collection of pattern-based programs built using **loops in Java**. This project is designed to help beginners and enthusiasts understand how to use nested loops to create various patterns such as pyramids, triangles, diamonds, and more.
 
